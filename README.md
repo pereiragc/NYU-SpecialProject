@@ -16,6 +16,10 @@
 
 ## Logistics
 
+*Update.* Starting Feb 28th, we will alternate presentations and office hours.
+
+---------
+
 - Class meets Tuesdays 6:20pm - 8:20pm
 - How to contact me: 
   + My name is Gustavo Pereira, but you can call me GP or Gustavo, no need to address me formally
